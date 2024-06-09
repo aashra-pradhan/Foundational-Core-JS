@@ -1,0 +1,18 @@
+SCOPES IN JS:
+
+1. LOCAL scope
+a)Block scope:
+-let use garera variable define garda, that is block/function level scope.Matlab let use garyo bhane,
+,tyo,duita curly braces bhitra(eg. loops,simple block{}) matra defined ho, 
+tyo bhanda bahira not defined.
+
+b)function scope:
+-let use garera variable define garda, that is block/function level scope.Matlab let use garyo bhane,
+,function bhitra matra ta variable is defined, bahira it's not defined.
+
+-NOTE:SO BASICALLY, Block ra function scope is let use garyo bhane, block ma let use gareko
+cha bhane that's block scope, function ma let use gareko cha bhane that's function scope.
+
+2.GLOBAL scope
+-var is global scope, var use garera define gareko kura globally defined.
+-kei na lekhi define gare ni, that's global scope

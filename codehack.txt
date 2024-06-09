@@ -1,0 +1,14 @@
+One thing that you NEED to understand is, in coding you'll never reach that point that 
+you know everything. Bassically garne k ho is, afu le project banaune kram ma kei kura/
+feature/concept chahiyo bhane research garne, try out garne, error aaye ni chatgpt chadai cha,
+copy paste garera k error bhayo sodhne.
+
+adkine nai haina katai pani. kasailai ni sabai kura aaudaina, projects gardai gare pachi afai sakincha.
+Practise hudai gaye pachi afai haat chalcha. Etti proficient bhaye pugcha ki timlai
+coding resources use garera project banauna saknuparyo, sabai yaad nai hunu parne hoina, sabai concepts
+aaunaii parne hoina!
+
+For eg., for loop haruko variations, also different methods hunchan of array/string/class/object etc etc, class/object kai different
+features hola, inheritance, 'extends' keyword, getter setter hola, tini haru timle chatgpt garyau bhane concept majale bujhchau,
+so project banauda chahiye bela ma research gara. sabai ratta marnuparne kadapi haina.
+Use gardai gayepachi concept yaad hunu arkai kura ho, huncha pani.
